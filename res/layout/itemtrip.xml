@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/list_bg"
+>
+    
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10px"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical"
+    >    
+    
+    <ImageView
+        android:id="@+id/ligneNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="@android:color/transparent"
+        android:paddingRight="20px"
+        android:maxWidth="60px"
+        android:adjustViewBounds="true"
+    />
+
+    <TextView
+        android:id="@+id/terminus"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#000"
+        android:background="@android:color/transparent"
+    />
+    </LinearLayout>
+    
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:padding="10px"
+        android:background="@android:color/transparent"
+        android:gravity="center_vertical|right"
+    >
+        <TextView
+            android:id="@+id/wait"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#000"
+            android:background="@android:color/transparent"
+    />
+    </LinearLayout>
+    
+</LinearLayout>

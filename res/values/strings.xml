@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Right on Time</string>
+    <string name="main_title">Liste des arrêts</string>
+    <string name="trip_title">Temps d\'attente</string>
+    <string name="reminder_title">Rappel</string>
+    <string name="time_to_go_title">Notification</string>
+    <string name="about_title">À propos</string>
+    <string name="search_label">Rechercher un arrêt</string>
+    <string name="reminder_locationName_label">Arrêt : </string>
+    <string name="reminder_ligne_label">Ligne : </string>
+    <string name="reminder_terminus_label">Vers : </string>
+    <string name="reminder_wait_label">Temps d\'attente : </string>
+    <string name="about">L\'application Right on Time utilise les données de l\'API \"Temps réel\" fournit par la Semitan dans le cadre du projet Nantes Open Datas (sous licence ODbL).</string>
+    <string name="copyright1">Reproduction et diffusion strictement interdite</string>
+    <string name="copyright2">Droits d\'usage strictement personnel</string>
+</resources>

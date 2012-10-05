@@ -1,0 +1,1022 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <array name="stops">
+        <item>HALU|Haluchère|47.24830065|-1.52106689</item>
+        <item>PISE|Pin Sec|47.24314191|-1.51822685</item>
+        <item>SOUI|Souillarderie|47.23819614|-1.51601016</item>
+        <item>LDRE|Landreau|47.23192583|-1.5161198</item>
+        <item>MDOU|Mairie de Doulon|47.22681934|-1.51893699</item>
+        <item>BDOU|Bd de Doulon|47.22426858|-1.51997076</item>
+        <item>HBLI|Hôpital Bellier|47.22117614|-1.52449245</item>
+        <item>MOUT|Moutonnerie|47.21962335|-1.53316841</item>
+        <item>MNFA|Manufacture|47.21884612|-1.53721583</item>
+        <item>GSNO|Gare SNCF Nord|47.21791087|-1.54236144</item>
+        <item>DCAN|Duchesse Anne|47.21625146|-1.54707989</item>
+        <item>BOFA|Bouffay|47.21456801|-1.55233794</item>
+        <item>COMM|Commerce|47.21374237|-1.55624938</item>
+        <item>MDTH|Médiathèque|47.21112473|-1.56084308</item>
+        <item>CNAV|Chantiers Navals|47.20866237|-1.56808581</item>
+        <item>GMAR|Gare Maritime|47.20677451|-1.57278485</item>
+        <item>DCFF|Du Chaffault|47.20752168|-1.58180681</item>
+        <item>EGLI|Egalité|47.20902025|-1.58789857</item>
+        <item>XBON|Croix Bonneau|47.20990054|-1.5958044</item>
+        <item>JMLI|Jean Moulin|47.20709014|-1.59998314</item>
+        <item>LAUR|Lauriers|47.20475984|-1.60497474</item>
+        <item>RROL|Romain Rolland|47.2066636|-1.60972045</item>
+        <item>BLVU|M.F. - Bellevue|47.20863229|-1.61159441</item>
+        <item>RMNE|Romanet|47.21168792|-1.6087778</item>
+        <item>TENA|Tertre|47.21433981|-1.60696672</item>
+        <item>NRDA|Néruda|47.21756673|-1.61260353</item>
+        <item>FRAC|Frachon|47.21907346|-1.62055498</item>
+        <item>SECH|Schoelcher|47.22053043|-1.628022</item>
+        <item>TMLI|Tourmaline|47.22143534|-1.63263638</item>
+        <item>FMIT|F. Mitterrand|47.2220657|-1.63837945</item>
+        <item>JAME|Jamet|47.2099943|-1.60294061</item>
+        <item>JVNA|Jules Verne|47.24859111|-1.51706669</item>
+        <item>PATR|Pâtis Rondin|47.24788187|-1.51652751</item>
+        <item>PHVE|Pré Hervé|47.24383449|-1.51767017</item>
+        <item>BTIE|Bottière|47.24020309|-1.51823696</item>
+        <item>LIPP|Lippmann|47.23865007|-1.52077778</item>
+        <item>MRRI|Marrière|47.23753101|-1.52445068</item>
+        <item>BRBI|Bois Robillard|47.23533987|-1.51987257</item>
+        <item>DEMO|Desmoulins|47.23278301|-1.52157554</item>
+        <item>ECTE|Enchanterie|47.23049424|-1.52357778</item>
+        <item>MITR|Mitrie|47.22833722|-1.52628976</item>
+        <item>DALB|Dalby|47.2250474|-1.52960279</item>
+        <item>CSTE|Casterneau|47.22698663|-1.53248441</item>
+        <item>PIPA|Pipay|47.22565857|-1.53711159</item>
+        <item>GAMB|Gambetta|47.22348786|-1.53862945</item>
+        <item>BTLE|Bouteillerie|47.22155613|-1.54317539</item>
+        <item>TBCH|Trébuchet|47.22000043|-1.54628555</item>
+        <item>FOCH|Foch-Cathédrale|47.2192406|-1.55044389</item>
+        <item>STPI|St-Pierre|47.2180948|-1.55182363</item>
+        <item>HVNA|Hôtel de Ville|47.2177793|-1.55434012</item>
+        <item>CRQU|Place du Cirque|47.21688581|-1.55694111</item>
+        <item>GRLI|Graslin|47.2126869|-1.56254833</item>
+        <item>JEVV|Jean V|47.21189031|-1.56516758</item>
+        <item>SNTA|Sanitat|47.21053455|-1.56853834</item>
+        <item>RBHI|René Bouhier|47.20986327|-1.5705526</item>
+        <item>CUVI|Cuvier|47.21054836|-1.57362881</item>
+        <item>MLLI|Mellinet|47.21148552|-1.57627767</item>
+        <item>VCSO|Vaucanson|47.2127393|-1.58119844</item>
+        <item>ZOLA|Zola|47.21414772|-1.58599816</item>
+        <item>CVTI|Convention|47.21109061|-1.58658562</item>
+        <item>MCHA|Mairie Chantenay|47.20673042|-1.58786298</item>
+        <item>MSLL|Marseillaise|47.20738421|-1.59145199</item>
+        <item>BDRI|Bourderies|47.20660877|-1.59566214</item>
+        <item>PBER|Paul Bert|47.21317343|-1.59793243</item>
+        <item>PBRE|Petit Breton|47.21328112|-1.60017231</item>
+        <item>FLRI|Floride|47.21346245|-1.60368199</item>
+        <item>BSEJ|Beauséjour|47.23800376|-1.58678224</item>
+        <item>MMNA|Mermoz|47.23949894|-1.58482724</item>
+        <item>DIAN|Diane|47.23966614|-1.57803857</item>
+        <item>BLZZ|Berlioz|47.24005204|-1.57217729</item>
+        <item>RLON|Rennes Longchamp|47.23841678|-1.57036877</item>
+        <item>AMER|Américains|47.2357569|-1.56791581</item>
+        <item>RREN|Rd-Pt de Rennes|47.23291215|-1.56582714</item>
+        <item>LGOF|Le Goffic|47.23042085|-1.56348679</item>
+        <item>BRUN|Bruneau|47.22830953|-1.56177397</item>
+        <item>BAIR|Bel Air|47.22541082|-1.5592675</item>
+        <item>SSTA|St-Stanislas|47.2224859|-1.55676205</item>
+        <item>TLSA|Talensac|47.22145182|-1.55589886</item>
+        <item>OTAG|50 Otages|47.21991679|-1.55553401</item>
+        <item>CMAR|Cirque - Marais|47.21806048|-1.55714855</item>
+        <item>MHAT|Marcel Hatet|47.22207362|-1.53088637</item>
+        <item>TAID|Toutes Aides|47.22620979|-1.52281356</item>
+        <item>PRNE|Perrines|47.22756741|-1.51553351</item>
+        <item>GBLO|Grand Blottereau|47.22956308|-1.51139863</item>
+        <item>GAGN|Gagnerie|47.23219172|-1.50727788</item>
+        <item>VDLO|Vieux Doulon|47.23550743|-1.50404772</item>
+        <item>COLI|Colinière|47.23596214|-1.50836983</item>
+        <item>DRID|Druides|47.23866345|-1.50741972</item>
+        <item>BCHE|Basse Chênaie|47.24145594|-1.50826814</item>
+        <item>VISO|Vison|47.24431472|-1.50977541</item>
+        <item>PNTI|Plantiveau|47.24611063|-1.51133962</item>
+        <item>PERR|Perray|47.24752285|-1.51348405</item>
+        <item>GPRO|Gare Pt-Rousseau|47.1929803|-1.54905633</item>
+        <item>PIRM|Pirmil|47.19625028|-1.54265052</item>
+        <item>MGIN|Mangin|47.20142351|-1.54481983</item>
+        <item>WATT|Wattignies|47.2039529|-1.5464718</item>
+        <item>VGAC|Vincent Gâche|47.20620361|-1.54840381</item>
+        <item>ADEL|Aimé Delrue|47.20912444|-1.5502406</item>
+        <item>HODI|Hôtel Dieu|47.21219532|-1.55298169</item>
+        <item>SMHI|St-Mihiel|47.22330863|-1.55338852</item>
+        <item>MOTE|Motte Rouge|47.22782913|-1.55409343</item>
+        <item>SFEL|St-Félix|47.23138646|-1.5565161</item>
+        <item>MICH|Michelet|47.23484653|-1.55685789</item>
+        <item>MORH|Morrhonnière|47.24138142|-1.55661358</item>
+        <item>FACU|Facultés|47.2460748|-1.55530511</item>
+        <item>ECSU|Ecole Centrale|47.24841707|-1.55141253</item>
+        <item>RTSC|Recteur Schmitt|47.25234436|-1.55293097</item>
+        <item>BOGE|Bourgeonnière|47.25309636|-1.56043804</item>
+        <item>BOSI|Boissière|47.25504937|-1.56586721</item>
+        <item>SADU|Santos Dumont|47.25943815|-1.56740838</item>
+        <item>CDAN|Chêne Anglais|47.26139211|-1.57374592</item>
+        <item>RCAS|René Cassin|47.26442499|-1.57554648</item>
+        <item>LCAR|Le Cardo|47.26177935|-1.58431557</item>
+        <item>OGVA|Orvault Gd Val|47.26220245|-1.59307327</item>
+        <item>PROU|Pont-Rousseau|47.19162412|-1.54803464</item>
+        <item>GDCH|Gare Chantenay|47.19781484|-1.59378869</item>
+        <item>LBTE|Liberté|47.19821478|-1.58904586</item>
+        <item>JMAC|Jean Macé|47.20002598|-1.58912784</item>
+        <item>HRLL|Hérelle|47.20152749|-1.58654796</item>
+        <item>LZCA|Lusançay|47.20266645|-1.58267001</item>
+        <item>LECH|Lechat|47.20374102|-1.58110595</item>
+        <item>BDNN|Bourdonnais|47.20594825|-1.57971196</item>
+        <item>SAIG|St-Aignan|47.20788783|-1.5785071</item>
+        <item>CANC|Canclaux|47.21445529|-1.57458388</item>
+        <item>LMRI|Lamoricière|47.21465128|-1.57244224</item>
+        <item>EDNA|Edit de Nantes|47.21478668|-1.56835764</item>
+        <item>CPER|Copernic|47.21484895|-1.56478388</item>
+        <item>SNIC|St-Nicolas|47.21564632|-1.55981093</item>
+        <item>SCLE|St-Clément|47.22202557|-1.54699374</item>
+        <item>CHZY|Chanzy|47.22364272|-1.54533561</item>
+        <item>DSAI|Desaix|47.22690394|-1.54271579</item>
+        <item>SDON|St-Donatien|47.22913181|-1.54057145</item>
+        <item>CHRE|Chalâtres|47.23130184|-1.53839101</item>
+        <item>RPAR|Rd-Pt de Paris|47.23389748|-1.53571196</item>
+        <item>PTIS|Plessis Tison|47.23687395|-1.53332998</item>
+        <item>CRSA|Croissant|47.24074108|-1.53041164</item>
+        <item>CHOC|Chocolaterie|47.24295454|-1.52734958</item>
+        <item>MNTR|Ménétrier|47.24120309|-1.5241769</item>
+        <item>FNLL|Fresnel|47.24295179|-1.52332647</item>
+        <item>DUNA|Dunant|47.24389057|-1.52140644</item>
+        <item>CP1N|Chapelle|47.20939809|-1.57761109</item>
+        <item>GRBA|Garibaldi|47.2016662|-1.58855765</item>
+        <item>DERV|Dervallières|47.2291173|-1.59781323</item>
+        <item>LNAI|Le Nain|47.2267583|-1.60076162</item>
+        <item>PEON|Perron|47.22463728|-1.60132541</item>
+        <item>SLAU|St-Laurent|47.22331568|-1.59774701</item>
+        <item>VARI|Vincent Auriol|47.2219424|-1.59200474</item>
+        <item>PCRE|Poincaré|47.22257646|-1.58490216</item>
+        <item>PRCE|Procé|47.22245055|-1.5810186</item>
+        <item>DOME|Doumer|47.22202571|-1.57844385</item>
+        <item>CMUS|Camus|47.22057327|-1.57499813</item>
+        <item>SGRA|Sageran|47.21952106|-1.57115485</item>
+        <item>MDSI|Mondésir|47.21779017|-1.56898336</item>
+        <item>HARO|Harouys|47.21688992|-1.56721633</item>
+        <item>DLME|Delorme|47.21546137|-1.56443924</item>
+        <item>BOND|Bonde|47.22267162|-1.55208757</item>
+        <item>COCH|Cochard|47.22422098|-1.55011857</item>
+        <item>CBNA|Cambronne|47.22552996|-1.54811879</item>
+        <item>LALL|Lallié|47.22771117|-1.5451701</item>
+        <item>CLTT|Châlet|47.22973175|-1.54428872</item>
+        <item>COUD|Coudray|47.23241796|-1.5424288</item>
+        <item>MBZO|Montbazon|47.23513382|-1.54060325</item>
+        <item>GDRE|Guindré|47.23933958|-1.53773826</item>
+        <item>ERDI|Eraudière|47.24223726|-1.53478011</item>
+        <item>KERE|Keren|47.24494955|-1.53329151</item>
+        <item>PCVO|Pontecorvo|47.24716|-1.53141793</item>
+        <item>RNDI|Renaudière|47.25007742|-1.53012617</item>
+        <item>RAZA|Ranzay|47.2524484|-1.52990567</item>
+        <item>BATI|Batignolles|47.25560975|-1.52980889</item>
+        <item>BJOI|Beaujoire|47.2587023|-1.52663575</item>
+        <item>RSRA|Roseraie|47.2613827|-1.52849665</item>
+        <item>RDPE|RDV des Pêcheurs|47.26462437|-1.52663333</item>
+        <item>LNTT|Linot|47.26628536|-1.52468581</item>
+        <item>CJOS|Cim. St-Joseph|47.26834302|-1.52107824</item>
+        <item>POON|Potiron|47.27038627|-1.51885057</item>
+        <item>PLBL|Port la Blanche|47.27176038|-1.5165262</item>
+        <item>BRLA|Brouillard|47.27381192|-1.51450591</item>
+        <item>MDPO|Moulin Porterie|47.2760043|-1.51356751</item>
+        <item>CPAU|Christian Pauc|47.2821815|-1.51794338</item>
+        <item>CTRE|Chantrerie|47.28641845|-1.52097698</item>
+        <item>EVET|Ecole Vétérinaire|47.29035627|-1.52294837</item>
+        <item>GCHE|Gachet 1|47.29306888|-1.52395162</item>
+        <item>PTQQ|Portricq|47.26517966|-1.52153264</item>
+        <item>EMBE|Embellie|47.2662796|-1.51806282</item>
+        <item>SJPO|St-Jo. Porterie|47.26778263|-1.51642203</item>
+        <item>SRDI|Sarradin|47.22049876|-1.57015808</item>
+        <item>AFRA|Anatole France|47.22403983|-1.57155943</item>
+        <item>EQPE|Equipement|47.22381161|-1.57558331</item>
+        <item>SSVA|St-Servan|47.21041786|-1.61639089</item>
+        <item>MOLA|Morlaix|47.21156573|-1.61759397</item>
+        <item>VEXP|Village Expo|47.21428794|-1.61539989</item>
+        <item>RNAN|Renan|47.21587064|-1.61401574</item>
+        <item>CRME|Crémetterie|47.21826115|-1.60796636</item>
+        <item>BCOI|Branchoire|47.21806322|-1.603576</item>
+        <item>RPCH|Repos de Chasse|47.21661711|-1.59876669</item>
+        <item>CSCL|Cim. St-Clair|47.21666804|-1.59283955</item>
+        <item>DNAI|Danais|47.21371843|-1.5914881</item>
+        <item>PTNE|Platanes|47.24539432|-1.52491399</item>
+        <item>LEGU|Leygues|47.20326785|-1.54170146</item>
+        <item>MOZI|Monzie|47.20330146|-1.53976582</item>
+        <item>MDEL|Mandel|47.20252127|-1.53709463</item>
+        <item>BENA|Beaulieu|47.20371041|-1.53582049</item>
+        <item>SBLL|Sébilleau|47.20517179|-1.53187057</item>
+        <item>RODE|Rondeau|47.20687834|-1.53315941</item>
+        <item>MILL|Millerand|47.20819399|-1.53027936</item>
+        <item>PPDO|Pompidou|47.20929083|-1.52786788</item>
+        <item>HREG|Hôtel de Région|47.21031614|-1.52617115</item>
+        <item>LIGE|Ligérienne|47.21029866|-1.52623597</item>
+        <item>AGTE|Angleterre|47.21521842|-1.52980922</item>
+        <item>PICA|Picasso|47.21522819|-1.53642513</item>
+        <item>SAUP|Saupin|47.21503151|-1.53699779</item>
+        <item>GSSU|Gare SNCF Sud|47.21567911|-1.54293228</item>
+        <item>LUNI|Lieu Unique|47.2157748|-1.54562262</item>
+        <item>MTEI|Monteil|47.21426021|-1.54876643</item>
+        <item>STLE|Stade Lecointre|47.21018051|-1.53198619</item>
+        <item>WBRA|Willy Brand|47.2105086|-1.5347274</item>
+        <item>ALIE|Allier|47.21297332|-1.53709067</item>
+        <item>BHAR|Bois Hardy|47.19819179|-1.60026422</item>
+        <item>FADI|Fardière|47.19831347|-1.60605602</item>
+        <item>JVRA|Janvraie|47.19970821|-1.61177595</item>
+        <item>BEOC|Belloc|47.20336804|-1.61464497</item>
+        <item>BNNO|Bernanos|47.20630853|-1.61360318</item>
+        <item>CHGN|Châtaigniers|47.22180553|-1.60237919</item>
+        <item>CLNA|Colonac|47.22459492|-1.60298686</item>
+        <item>GCAR|Grand Carcouët|47.23134801|-1.59236636</item>
+        <item>GBOI|Grand Bois|47.23338918|-1.59023857</item>
+        <item>CTLI|Courteline|47.23562264|-1.58769296</item>
+        <item>CGAU|Cim. Gaudinière|47.24235482|-1.58311036</item>
+        <item>VORR|Val d\'Or|47.24420659|-1.58239567</item>
+        <item>BSLO|Bois St-Louis|47.24603976|-1.57976238</item>
+        <item>PDCE|Pont du Cens|47.2487669|-1.57715202</item>
+        <item>VALL|Vallée|47.25061785|-1.57671212</item>
+        <item>BDPA|Bout des Pavés|47.25369202|-1.57587793</item>
+        <item>CVNI|Chauvinière|47.25127776|-1.57155463</item>
+        <item>TRNE|Tribunes|47.25005947|-1.56883355</item>
+        <item>HIPP|Hippodrome|47.2473169|-1.56757156</item>
+        <item>CCOU|Champ de Courses|47.24466038|-1.56146224</item>
+        <item>PPFA|Petit Port|47.24329302|-1.55642389</item>
+        <item>FDDR|Fac de Droit|47.24489103|-1.55203942</item>
+        <item>ABDU|Abel Durand|47.22019661|-1.60337553</item>
+        <item>SJAC|St-Jacques 2|47.19610026|-1.53928951</item>
+        <item>GNRA|Gréneraie|47.19945057|-1.5335235</item>
+        <item>MTLI|Martellière|47.19908912|-1.52567202</item>
+        <item>PLAC|Placis|47.19956405|-1.52004451</item>
+        <item>MMSS|Mermoz|47.19871459|-1.51548581</item>
+        <item>GDPI|Grande Pièce|47.19899899|-1.51066719</item>
+        <item>PBLE|Pâtis Brûlé|47.19976679|-1.50736193</item>
+        <item>ESCA|Escall|47.19940336|-1.50313564</item>
+        <item>CMNE|Commune 1871|47.19922473|-1.49987343</item>
+        <item>PPLI|Peupliers|47.19948013|-1.49654322</item>
+        <item>BIGN|Bignons|47.19961122|-1.4932107</item>
+        <item>DPTE|Déportés|47.19706666|-1.49228403</item>
+        <item>WDIS|Walt Disney|47.19465343|-1.48999268</item>
+        <item>GRPO|Gripots|47.19234483|-1.49160009</item>
+        <item>CURI|Curie|47.19046532|-1.48712221</item>
+        <item>LFLE|Laurier Fleuri|47.1877661|-1.48404207</item>
+        <item>GVNO|Gare Vertou Nord|47.18701587|-1.47803691</item>
+        <item>CLGE|Chalonges|47.18950149|-1.47252245</item>
+        <item>PSUD|Pôle Sud|47.18875824|-1.46943026</item>
+        <item>MLAN|Magellan|47.1881584|-1.46442611</item>
+        <item>RSCO|Robert Scott|47.18694813|-1.45925924</item>
+        <item>CHME|Charmes|47.19091893|-1.46103642</item>
+        <item>LPLE|La Plée|47.19369711|-1.46309189</item>
+        <item>LHER|La Herdrie|47.19789887|-1.45234757</item>
+        <item>LAGE|Largeau|47.19525865|-1.5104231</item>
+        <item>ECBU|Ecobuts|47.19393809|-1.50763701</item>
+        <item>LPME|La Plume|47.19489879|-1.50531045</item>
+        <item>OQNE|Ouche Quinet|47.19598232|-1.50457956</item>
+        <item>RBRN|René Bernier|47.19386137|-1.49923927</item>
+        <item>GLDE|Grande Lande|47.19251902|-1.49777689</item>
+        <item>FRON|Frêne Rond|47.19027917|-1.49638177</item>
+        <item>VTNN|Vertonne|47.18673528|-1.4940902</item>
+        <item>BNTA|BN|47.18413714|-1.49656092</item>
+        <item>MVAN|Mortier Vannerie|47.18007992|-1.49937567</item>
+        <item>PVTO|Porte de Vertou|47.18073148|-1.50495493</item>
+        <item>TMET|Trois Métairies|47.17634714|-1.50145178</item>
+        <item>PTYY|Planty|47.17531327|-1.49513473</item>
+        <item>FRCH|Fraîches|47.17467477|-1.48995964</item>
+        <item>VIVI|Viviers|47.1731336|-1.4850016</item>
+        <item>EUVE|Europe|47.17303578|-1.47637859</item>
+        <item>HMVE|08-mai|47.17275727|-1.47246649</item>
+        <item>CBGE|Chapeau Berger|47.1713677|-1.4685041</item>
+        <item>VTOU|Vertou|47.16892305|-1.47119336</item>
+        <item>SBAI|St-Blaise|47.1672216|-1.46905514</item>
+        <item>JMON|Jean Monnet|47.16623023|-1.46527713</item>
+        <item>BRET|Bretonnière|47.16602552|-1.46292979</item>
+        <item>HFVE|Haute Forêt|47.1681818|-1.46551627</item>
+        <item>IDFR|Ile de France|47.16938198|-1.46779952</item>
+        <item>PCHA|Portechaise|47.20066387|-1.52579426</item>
+        <item>GPOR|Grand Portail|47.20209051|-1.52309296</item>
+        <item>BAUG|Baugerie|47.20418512|-1.51932294</item>
+        <item>GIBR|Gibraye|47.20509289|-1.51573085</item>
+        <item>MTIE|Métairie|47.20509467|-1.51087944</item>
+        <item>CBSS|Cambronne|47.20652651|-1.50652656</item>
+        <item>SSEB|St-Sébastien|47.20748779|-1.50311375</item>
+        <item>DOTT|Douettée|47.20776282|-1.49862802</item>
+        <item>PRMI|Pyramide|47.20802983|-1.49273875</item>
+        <item>SAVA|Savarières|47.20919287|-1.48932177</item>
+        <item>PAGO|Parc|47.21419796|-1.47910384</item>
+        <item>RIVI|Rivière|47.21504385|-1.47587288</item>
+        <item>TEGO|Tertre|47.21614381|-1.47143723</item>
+        <item>GGNO|Grignon|47.21638879|-1.46632268</item>
+        <item>ECLI|Echalier|47.21482485|-1.46154429</item>
+        <item>CPGN|Champagnère|47.21024984|-1.46129488</item>
+        <item>GOCH|Grande Ouche|47.21118879|-1.46663179</item>
+        <item>PTGO|Poitou|47.20944671|-1.46947706</item>
+        <item>BGLA|Basse-Goulaine|47.20824604|-1.46851344</item>
+        <item>TZEL|Touzelles|47.20834314|-1.46643151</item>
+        <item>TBER|Tristan Bernard|47.20539788|-1.46452797</item>
+        <item>CRGE|Chênes Rouges|47.20244265|-1.46310363</item>
+        <item>RLEA|Rouleaux|47.19963504|-1.46543545</item>
+        <item>QTNE|Quintaine|47.21666124|-1.46435665</item>
+        <item>NETR|Neustrie|47.17718996|-1.59257836</item>
+        <item>COET|Les Couëts|47.18070554|-1.58647525</item>
+        <item>GDOU|Grande Ouche|47.1813168|-1.57982889</item>
+        <item>TROC|Dépôt Trocardière|47.18317816|-1.5700007</item>
+        <item>DIDE|Espace Diderot|47.18436999|-1.56293475</item>
+        <item>CREZ|Château de rezé|47.18473304|-1.55950223</item>
+        <item>BALI|Balinière|47.18531914|-1.55416028</item>
+        <item>mai-08|08-mai|47.18909966|-1.55139021</item>
+        <item>BRTA|Bretagne|47.21724171|-1.55838973</item>
+        <item>JJNA|Jean Jaurès|47.21859536|-1.56036281</item>
+        <item>VIAR|Viarme-Talensac|47.22135036|-1.56268404</item>
+        <item>POIT|Poitou|47.22425289|-1.56540827</item>
+        <item>FFAU|Félix Faure|47.22722414|-1.56972245</item>
+        <item>RVAN|Rd-Pt de Vannes|47.22984906|-1.57269616</item>
+        <item>STHR|Ste-Thérèse|47.23279643|-1.57750269</item>
+        <item>LONG|Longchamp|47.23500003|-1.58238452</item>
+        <item>PSCE|Plaisance|47.24018205|-1.59127169</item>
+        <item>FERI|Ferrière|47.24431186|-1.59134558</item>
+        <item>JROS|Jean Rostand|47.24695406|-1.59510961</item>
+        <item>BNON|Bignon|47.24971222|-1.5981427</item>
+        <item>OMRL|Orvault-Morlière|47.24690628|-1.60343639</item>
+        <item>SILL|Sillon Bretagne|47.24563132|-1.60865294</item>
+        <item>MPAU|Marcel Paul|47.24599584|-1.61651719</item>
+        <item>TTMO|Trentemoult|47.191704|-1.5820133</item>
+        <item>CALI|Californie|47.1912243|-1.58457894</item>
+        <item>LEVO|Levoyer|47.19415625|-1.58140068</item>
+        <item>QSCO|Quai surcouf|47.19510134|-1.5767558</item>
+        <item>NOHH|North\'House|47.1956978|-1.5715759</item>
+        <item>SEIL|Seil|47.19421793|-1.57062151</item>
+        <item>MREZ|Mairie de Rezé|47.19130851|-1.57001736</item>
+        <item>LCBU|Le Corbusier|47.19014863|-1.56860352</item>
+        <item>MRDI|Maison Radieuse|47.18807542|-1.56668581</item>
+        <item>JPER|Jean Perrin|47.1812653|-1.56078359</item>
+        <item>XREZ|Croix de Rezé|47.1795037|-1.55880992</item>
+        <item>MBLA|Mont-Blanc|47.17622099|-1.55552573</item>
+        <item>LHOU|La Houssais|47.17387266|-1.55328129</item>
+        <item>CCRE|Chêne Creux|47.17054937|-1.54895343</item>
+        <item>LCEE|La Carrée|47.16847663|-1.54319266</item>
+        <item>LMBR|Lambert|47.17116925|-1.53927289</item>
+        <item>NDRE|Naudières|47.17341287|-1.53647842</item>
+        <item>JANA|Jaunais|47.17600326|-1.53369931</item>
+        <item>MRTE|Marterie|47.17871525|-1.53123034</item>
+        <item>RVER|Roches Vertes|47.18498056|-1.52451033</item>
+        <item>BODO|Bourdonnières|47.18690557|-1.52144386</item>
+        <item>FIC3|Fictif 30|47.18797665|-1.52094701</item>
+        <item>JLIE|Joliverie|47.18981823|-1.51920624</item>
+        <item>JLVE|Joliverie|47.18969892|-1.51780157</item>
+        <item>SJEA|St-Jean|47.19151414|-1.52359012</item>
+        <item>GAIL|Garillère|47.19244862|-1.5209806</item>
+        <item>RDGO|Radigois|47.19316432|-1.51724998</item>
+        <item>VINE|Villeneuve|47.19408507|-1.51371305</item>
+        <item>VILE|Violettes|47.19778382|-1.50904106</item>
+        <item>MNSS|Malnoue|47.20291146|-1.50533462</item>
+        <item>PAJO|Petit Anjou|47.20579626|-1.50461728</item>
+        <item>AUGE|Augé|47.19495738|-1.51737512</item>
+        <item>LCSE|La Close|47.2416059|-1.57345514</item>
+        <item>FRET|Forêt|47.24396108|-1.57520985</item>
+        <item>BTRA|Bertrand|47.25703804|-1.57569646</item>
+        <item>LCLE|La Coulée|47.2597832|-1.57487536</item>
+        <item>LRHE|Les Roches|47.26350657|-1.57922821</item>
+        <item>PDJO|Point du jour|47.26557032|-1.58147326</item>
+        <item>BDLA|Bout des Landes|47.26746808|-1.58228059</item>
+        <item>UTLO|Utrillo|47.18218731|-1.56342612</item>
+        <item>OBLA|Ouche Blanche|47.17972763|-1.56423505</item>
+        <item>MHUI|Moulin à l\'Huile|47.17718583|-1.5624753</item>
+        <item>LDSS|Landas|47.17439972|-1.55943056</item>
+        <item>GULO|Guilloterie|47.17246328|-1.55732626</item>
+        <item>CCLA|Cim. Classerie|47.17106653|-1.55849198</item>
+        <item>CSRI|Classerie|47.16812962|-1.55880532</item>
+        <item>GGUI|Gauguin|47.16698816|-1.55520531</item>
+        <item>JMNT|Jean Monnet|47.16652894|-1.54981531</item>
+        <item>GSAN|George Sand|47.16578218|-1.54522603</item>
+        <item>RAGO|Ragon|47.16534836|-1.54254474</item>
+        <item>CP3R|Chapelles|47.1644111|-1.5390578</item>
+        <item>RBNI|Robinière 1|47.16400651|-1.53574003</item>
+        <item>POYA|Poyaux|47.16667567|-1.5307728</item>
+        <item>BNAR|Bernard|47.16729031|-1.52530077</item>
+        <item>AUFR|L\'Aufrère|47.16803754|-1.52512222</item>
+        <item>BAST|Bastille|47.17921008|-1.59705925</item>
+        <item>PABO|Paix|47.18268033|-1.59231389</item>
+        <item>CTIE|Châtelier|47.18475406|-1.59317554</item>
+        <item>TNVA|Terre Neuvas|47.18589754|-1.59090317</item>
+        <item>CTEU|Caboteurs|47.18643243|-1.5872999</item>
+        <item>HMLL|Houmaille|47.18901995|-1.58696108</item>
+        <item>ODNE|Ordronneau|47.1938568|-1.57457507</item>
+        <item>SORI|Sorin|47.19522497|-1.56789632</item>
+        <item>BILE|Basse Ile|47.19581789|-1.56267645</item>
+        <item>PLTI|Platière|47.19456011|-1.56000088</item>
+        <item>HILE|Haute Ile|47.19429599|-1.5558914</item>
+        <item>TBLY|Tabarly|47.19546643|-1.54887411</item>
+        <item>XJAN|Croix Jeannette|47.17107224|-1.62351986</item>
+        <item>CNTR|Centaure|47.17000619|-1.6271076</item>
+        <item>PIBL|Pierre Blanche|47.17211123|-1.62732815</item>
+        <item>PBFF|Paimboeuf|47.17519775|-1.62385363</item>
+        <item>POTT|Pottier|47.17753335|-1.62675867</item>
+        <item>BOCE|Cent. Bouguenais|47.17941678|-1.62320975</item>
+        <item>MBOU|Mie Bouguenais|47.17896198|-1.61897523</item>
+        <item>BOVR|Bouvre|47.17812615|-1.61275495</item>
+        <item>PB1B|Parc Bouvre 1|47.1756505|-1.61311964</item>
+        <item>PB2B|Parc Bouvre 2|47.17397203|-1.61077297</item>
+        <item>PIAO|Piano\'cktail|47.17492017|-1.60625994</item>
+        <item>GAUT|Gautellerie|47.17741925|-1.60204645</item>
+        <item>BVOI|Beauvoir|47.17863161|-1.62934905</item>
+        <item>FOTA|Fontaine|47.20539258|-1.48926063</item>
+        <item>BGCY|Beaugency|47.20348649|-1.48998996</item>
+        <item>COBI|Corbières|47.20174948|-1.48745802</item>
+        <item>LRNE|Lourneau|47.20034044|-1.48824469</item>
+        <item>PRFO|Profondine|47.19616801|-1.48872676</item>
+        <item>ODLA|Ouche des landes|47.19486451|-1.48173108</item>
+        <item>NCTE|Noé Nottée|47.19437886|-1.47926394</item>
+        <item>PTRE|Portereau|47.19297628|-1.47705654</item>
+        <item>IDNA|Ile de Nantes|47.2057915|-1.53858294</item>
+        <item>TPOD|Tripode|47.20874835|-1.54131426</item>
+        <item>CDCO|Cité des Congrès|47.21369164|-1.54505906</item>
+        <item>MRAI|Maraîchers|47.18482592|-1.51073519</item>
+        <item>CVER|Chapeau Verni|47.1891412|-1.51005314</item>
+        <item>MVSI|Mauvoisins|47.18998518|-1.52554097</item>
+        <item>CTOR|Clos Toreau|47.19424816|-1.52909376</item>
+        <item>BGAR|Bonne Garde|47.19686846|-1.53124529</item>
+        <item>GTVE|Gaston Veil|47.21003649|-1.55568038</item>
+        <item>RPBL|République|47.20541524|-1.55513774</item>
+        <item>GURO|Gustave Roch|47.20373435|-1.55176363</item>
+        <item>BDUC|Bourg. Ducoudray|47.20233804|-1.54864816</item>
+        <item>RPSI|Ripossière|47.19156304|-1.53458591</item>
+        <item>PAMI|Palmiers|47.19009678|-1.53301726</item>
+        <item>OLVE|Oliveraie|47.1882636|-1.53077481</item>
+        <item>SEVR|Sèvres|47.18637305|-1.52766369</item>
+        <item>MLIN|Moulin|47.18875991|-1.50407054</item>
+        <item>PTPS|Printemps|47.18852539|-1.50032472</item>
+        <item>MLDR|Maladrie|47.18819243|-1.4951893</item>
+        <item>CSGR|Cassegrain|47.18774374|-1.48848807</item>
+        <item>GVSU|Gare Vertou Sud|47.18575173|-1.47662575</item>
+        <item>SAPI|Saupin|47.18442123|-1.47595368</item>
+        <item>GRAM|Grammoire|47.18358672|-1.47279844</item>
+        <item>CQLU|Coqueluchon|47.18388372|-1.47032613</item>
+        <item>PDAN|Pas d\'Ane|47.18139187|-1.47023877</item>
+        <item>DMAI|Domaine|47.17837793|-1.47074237</item>
+        <item>PBAI|Parc Bel Air|47.1785884|-1.47476692</item>
+        <item>BDSP|Bd des Sports|47.16574088|-1.46839461</item>
+        <item>MRGE|Morges|47.16492517|-1.47203686</item>
+        <item>MADO|Mandon|47.16059058|-1.47088815</item>
+        <item>BOTI|Boutière|47.15771925|-1.46809939</item>
+        <item>HDIE|Haudrière|47.15455781|-1.46765632</item>
+        <item>PTON|Portillon|47.14924553|-1.46861343</item>
+        <item>HBRA|Herbray|47.15035644|-1.47101755</item>
+        <item>FRMO|Frémoire|47.15283209|-1.47567648</item>
+        <item>BABI|Barbinière|47.15961625|-1.48167945</item>
+        <item>MLCH|Morlachère|47.1618923|-1.48312788</item>
+        <item>PEDR|Perdriaux|47.16144848|-1.48598479</item>
+        <item>NRCA|Noé Rocard|47.16336618|-1.49050518</item>
+        <item>BULA|Butte des Landes|47.16056193|-1.49397438</item>
+        <item>BORL|Bourrelière|47.15811224|-1.49866557</item>
+        <item>CRPO|Criport|47.15803259|-1.50355398</item>
+        <item>CHPO|Champonnière|47.16395556|-1.50597472</item>
+        <item>GSIN|Grassinière|47.16580319|-1.50817537</item>
+        <item>CLUE|Clouet|47.16719987|-1.51051481</item>
+        <item>LDAS|Landas|47.16931973|-1.51081965</item>
+        <item>RCHE|Rocher|47.16947557|-1.50535653</item>
+        <item>PRTE|Portereau|47.1678724|-1.50007642</item>
+        <item>REDR|Redras|47.16472423|-1.50231772</item>
+        <item>GDEN|Goldens|47.16182823|-1.49996563</item>
+        <item>GELL|Grande Noëlle|47.162388|-1.5024104</item>
+        <item>BSTI|Bastière|47.14873405|-1.45941225</item>
+        <item>AGBE|L\'Angebert|47.14062118|-1.45562801</item>
+        <item>PTVI|Pâtis Viaud|47.13867306|-1.45747394</item>
+        <item>CBTE|Choblèterie|47.13619374|-1.46149746</item>
+        <item>RGNI|Reigniers|47.13699817|-1.46554246</item>
+        <item>LILA|Lilas|47.13762944|-1.46851476</item>
+        <item>PEGE|Pégers|47.13755609|-1.47150833</item>
+        <item>LSYY|Léon Say|47.22928553|-1.56939303</item>
+        <item>CSMP|Casimir Périer|47.23150756|-1.56866408</item>
+        <item>LJOS|Léon Jost|47.23604473|-1.56335011</item>
+        <item>FTDO|Fructidor|47.23975901|-1.56031545</item>
+        <item>VSCO|Vincent Scotto|47.25158473|-1.56670594</item>
+        <item>FBLA|Fresche Blanc|47.25298072|-1.5575158</item>
+        <item>GCEN|Grande Censive|47.25194613|-1.54929722</item>
+        <item>CVLE|Chevalerie|47.25224026|-1.54520366</item>
+        <item>JNLI|Jonelière|47.25172083|-1.54079223</item>
+        <item>TJOI|Toutes Joies|47.22111296|-1.57294879</item>
+        <item>LSLL|Les Salles|47.25027982|-1.53607408</item>
+        <item>IROI|Iroise|47.24824084|-1.53643364</item>
+        <item>BNVI|Bonneville|47.24388946|-1.53641737</item>
+        <item>PBYE|Port Boyer|47.2411188|-1.53835517</item>
+        <item>PLGU|Pouliguen|47.23985374|-1.54264351</item>
+        <item>TMSS|Trémissinière|47.23834255|-1.54400509</item>
+        <item>LMNE|Lemoine|47.23567514|-1.54670576</item>
+        <item>TOTR|Tortière|47.23518505|-1.54973452</item>
+        <item>BEGE|Beauger|47.23421745|-1.55298789</item>
+        <item>HFNA|Haute Forêt|47.23335211|-1.55535736</item>
+        <item>SBSA|St-J.B. La Salle|47.23345709|-1.56019478</item>
+        <item>MACH|MIN|47.20158444|-1.55361856</item>
+        <item>FALI|Fallières|47.22494006|-1.57939226</item>
+        <item>BDAN|Bd des Anglais|47.22641748|-1.58301342</item>
+        <item>PCAC|Petit Carcouët|47.22800431|-1.58672479</item>
+        <item>ABLA|Avenue Blanche|47.22965331|-1.58929523</item>
+        <item>VERL|Verlaine|47.23357349|-1.59470116</item>
+        <item>SPRU|Sully Prudhomme|47.23593413|-1.59639282</item>
+        <item>BVDI|Bouvardière|47.23843997|-1.59842131</item>
+        <item>BGTT|Bergeronnettes|47.23941157|-1.60081579</item>
+        <item>NOSH|Noëlles|47.24032815|-1.60468687</item>
+        <item>NILL|Nil|47.2420008|-1.60800329</item>
+        <item>THEB|Thébaudières|47.24394838|-1.60669164</item>
+        <item>AGVI|Angevinière|47.24508318|-1.61216778</item>
+        <item>MKSU|Malakoff|47.21607127|-1.52121131</item>
+        <item>HOGR|Hongrie|47.21599759|-1.52378825</item>
+        <item>ECOS|Ecosse|47.21534297|-1.52700862</item>
+        <item>LROS|Les Roses|47.21590922|-1.57624209</item>
+        <item>LAMA|Lamartine|47.21648405|-1.57874224</item>
+        <item>LITT|Littré|47.21749259|-1.5822465</item>
+        <item>GLAU|Grillaud|47.22004431|-1.58170103</item>
+        <item>DLCR|Delacroix|47.22384819|-1.58885199</item>
+        <item>PNAN|Prière|47.22223742|-1.59637868</item>
+        <item>RDFY|Raoul Dufy|47.22262133|-1.59957793</item>
+        <item>MBCH|Maison Blanche|47.22150534|-1.60694995</item>
+        <item>IRLA|Irlandais|47.22310828|-1.60692566</item>
+        <item>GRTE|Garotterie|47.22465941|-1.60681657</item>
+        <item>MGLI|Magnoliers|47.22651067|-1.60531883</item>
+        <item>TILL|Tillay|47.22864662|-1.60593903</item>
+        <item>APRE|Ambroise Paré|47.22897434|-1.60858852</item>
+        <item>PLCL|Polyclinique|47.22735791|-1.61215662</item>
+        <item>HERM|Hermeland|47.23031876|-1.61706727</item>
+        <item>SFRA|San Francisco|47.2181963|-1.51590835</item>
+        <item>LRCH|La Roche|47.21664155|-1.51863578</item>
+        <item>MKMA|Madrid|47.2140801|-1.53348225</item>
+        <item>PDSP|Palais Sports|47.20871254|-1.53713048</item>
+        <item>FLBR|Français Libres|47.20731475|-1.54535907</item>
+        <item>MSYN|Maison Syndicats|47.20466767|-1.56059416</item>
+        <item>PDUC|Prairie au Duc 1|47.2041688|-1.56626319</item>
+        <item>ATIL|Antilles|47.20374139|-1.56947587</item>
+        <item>HBAN|Hangar à Bananes|47.20023304|-1.57322597</item>
+        <item>ARBO|Arbois|47.25848843|-1.58194841</item>
+        <item>PRDI|Praudière|47.25707958|-1.58375676</item>
+        <item>POLE|Poulenc|47.25535598|-1.58115062</item>
+        <item>REYN|Reynière|47.25604527|-1.5788219</item>
+        <item>JBNA|Jeanne Bernard|47.23559951|-1.59093776</item>
+        <item>BDEL|Baudelaire|47.23379444|-1.59279072</item>
+        <item>CNGO|Congo|47.24018727|-1.60958241</item>
+        <item>BVER|Bouvernière|47.23782538|-1.61153731</item>
+        <item>PCZI|Pont de Chézine|47.23807974|-1.6144186</item>
+        <item>MQLI|Mocquelière|47.23316215|-1.61877284</item>
+        <item>PGUY|Péguy|47.22155745|-1.61378527</item>
+        <item>CPLI|Chaplin|47.22233008|-1.61633844</item>
+        <item>PREU|Preux|47.22119951|-1.61827369</item>
+        <item>LMIC|Louise Michel|47.21992944|-1.61571618</item>
+        <item>NLBR|Noé Lambert|47.22994389|-1.52837734</item>
+        <item>CHBE|Chambelles|47.23179744|-1.53095482</item>
+        <item>BPTY|Boulay Paty|47.22893496|-1.57552105</item>
+        <item>SNUC|Stade SNUC|47.22795632|-1.58062788</item>
+        <item>JCOU|Joncours|47.22032104|-1.5864733</item>
+        <item>SLDA|Solidarité|47.21688006|-1.58754247</item>
+        <item>CABR|Cabrol|47.20371458|-1.58843235</item>
+        <item>NOBE|Nobel|47.23735182|-1.51737024</item>
+        <item>COST|Cousteau|47.23937092|-1.51349225</item>
+        <item>PRGE|Portail Rouge|47.24377257|-1.50511416</item>
+        <item>HTNI|Haltinière|47.24531174|-1.50629007</item>
+        <item>RCLA|Le Ricolais|47.2469531|-1.50450744</item>
+        <item>HVTI|Helvêtie|47.25070475|-1.4979558</item>
+        <item>CRCE|Courocerie|47.25222545|-1.4992421</item>
+        <item>BNLU|Bénélux|47.25401616|-1.49912586</item>
+        <item>AIGU|Aiguillon|47.25444454|-1.49675176</item>
+        <item>RNTI|Reinetière|47.25688299|-1.4914229</item>
+        <item>CADO|Cadoire|47.25671116|-1.48809159</item>
+        <item>BUSS|Buisson|47.26025694|-1.48749266</item>
+        <item>CIFA|CIFAM|47.2656679|-1.48716466</item>
+        <item>BZIN|Bel Air|47.26687055|-1.48949069</item>
+        <item>MONE|Moinet|47.26567295|-1.49227998</item>
+        <item>LFVR|Lefeuvre|47.26674433|-1.49503004</item>
+        <item>DAVU|Davum|47.26483454|-1.49610174</item>
+        <item>RNLT|Renault|47.26335539|-1.49554255</item>
+        <item>DAKK|Danemark|47.26144284|-1.49744214</item>
+        <item>LHAC|La Hache|47.26220781|-1.49894898</item>
+        <item>GBTA|Grande-Bretagne|47.26223031|-1.50221176</item>
+        <item>EUCA|Europe|47.26064923|-1.50343043</item>
+        <item>CAST|Castorama|47.25902278|-1.50763223</item>
+        <item>JAPY|Japy|47.25966503|-1.51101882</item>
+        <item>MSNE|Maison Neuve|47.25812655|-1.51540063</item>
+        <item>HAVE|Halvêque|47.25856539|-1.51950496</item>
+        <item>ITLI|Italie|47.25740871|-1.50206594</item>
+        <item>GMOL|Guy Mollet|47.24906569|-1.55381609</item>
+        <item>RVRE|Rivière|47.25954607|-1.55772881</item>
+        <item>PCSI|Petite Censive|47.26078898|-1.56243398</item>
+        <item>GERA|Géraudière|47.26224955|-1.56709997</item>
+        <item>EINS|Einstein|47.26410694|-1.5711259</item>
+        <item>CORA|Conraie|47.2608386|-1.5880981</item>
+        <item>JALI|Jalière|47.26418884|-1.59693704</item>
+        <item>BRNI|Baronnière|47.26007714|-1.60349761</item>
+        <item>CMLL|Charmille|47.2578002|-1.60544851</item>
+        <item>DEGL|De Gaulle|47.2560402|-1.60667539</item>
+        <item>TDGA|Tredégar|47.25441491|-1.60435225</item>
+        <item>CHLI|Cholière|47.25089199|-1.60673815</item>
+        <item>BEIL|Beillevaire|47.24945594|-1.60731478</item>
+        <item>CVRN|Cheverny|47.24570551|-1.60512755</item>
+        <item>CLSE|Closeaux|47.23954235|-1.62776448</item>
+        <item>BGSH|Bergerie|47.23752571|-1.62847063</item>
+        <item>AVEN|Aveneaux|47.23321273|-1.63021047</item>
+        <item>SZAI|Saulzaie|47.23119623|-1.6317363</item>
+        <item>CCDI|Cochardières|47.22955906|-1.6339112</item>
+        <item>OCAN|Océane|47.22735602|-1.63509811</item>
+        <item>DMUR|Dumont d\'Urville|47.225576|-1.635455</item>
+        <item>JCAR|Jacques Cartier|47.22394218|-1.63636973</item>
+        <item>SVDI|Solvardière|47.21778868|-1.64283938</item>
+        <item>GRIM|Grimm|47.21642936|-1.64597875</item>
+        <item>PBOT|Poulbot|47.21367963|-1.64816903</item>
+        <item>MSHE|Mie St-Herblain|47.21115468|-1.64855334</item>
+        <item>MNEF|Moulin Neuf|47.22997837|-1.51642444</item>
+        <item>RUET|Ruette|47.23341076|-1.51105664</item>
+        <item>FRNE|Frênes|47.25329271|-1.48763474</item>
+        <item>JFER|Jules Ferry|47.25077875|-1.48746816</item>
+        <item>SLCE|Ste-Luce / Loire|47.25031586|-1.48498148</item>
+        <item>PNLU|Pinier|47.25273794|-1.48206932</item>
+        <item>MZUR|Mazure|47.25760871|-1.48046339</item>
+        <item>MDLA|Moulin Landes|47.26177638|-1.48167184</item>
+        <item>BSSL|Beau Soleil|47.26155272|-1.47609947</item>
+        <item>TCHE|Trois Chênes|47.25886551|-1.47433558</item>
+        <item>BGRI|Bougrière|47.25492596|-1.47226768</item>
+        <item>MCAS|Moulin Cassé|47.25642578|-1.46877052</item>
+        <item>GIQU|Gicquelière|47.2578018|-1.4601519</item>
+        <item>BNIE|Bournière|47.25441006|-1.45539084</item>
+        <item>SLMA|Ste-Luce Marché|47.25000016|-1.48397683</item>
+        <item>MLRA|Malraux|47.25452297|-1.51740895</item>
+        <item>GBNI|Guiblinière|47.29235673|-1.5203706</item>
+        <item>PDOU|Porte Douillard|47.28958644|-1.51896805</item>
+        <item>SVAU|Savaudière|47.28914172|-1.51433622</item>
+        <item>BBON|Boisbonne|47.28684293|-1.50847374</item>
+        <item>EDRE|Erdreau|47.29105782|-1.50139878</item>
+        <item>FLEU|Fleuriaye|47.29873976|-1.49980238</item>
+        <item>BIAN|Aristide Briand|47.29652329|-1.49490355</item>
+        <item>JVCA|Jules Verne|47.29422105|-1.49430159</item>
+        <item>CACE|Centre Carquefou|47.29695537|-1.4907885</item>
+        <item>HVCQ|Mairie Carquefou|47.29884215|-1.49094664</item>
+        <item>CBEA|Charbonneau|47.30062806|-1.48965602</item>
+        <item>CROU|Chemin Rouge|47.252053|-1.51746657</item>
+        <item>CLET|Clétras|47.25498033|-1.512357</item>
+        <item>LGAR|La Garde|47.25619346|-1.50858429</item>
+        <item>NBLA|Noé Blanche|47.25793313|-1.50542602</item>
+        <item>MNVE|Maison Neuve|47.27476937|-1.46740234</item>
+        <item>VEAG|Véga|47.27983837|-1.4640418</item>
+        <item>ATAR|Antarès|47.28164535|-1.45973484</item>
+        <item>EUTH|Europe|47.2804066|-1.45181496</item>
+        <item>ARMO|Armorique|47.27186453|-1.44484795</item>
+        <item>BSNI|Bussonnière|47.26924272|-1.44330792</item>
+        <item>THCE|Centre Thouaré|47.26661984|-1.44081262</item>
+        <item>THGA|Gare de Thouaré|47.26523091|-1.43962739</item>
+        <item>MIMO|Mimosas|47.24128052|-1.58753948</item>
+        <item>CRVA|Cravate|47.2432335|-1.58815233</item>
+        <item>BGOG|Bourgogne|47.24614634|-1.58943418</item>
+        <item>GOBI|Gobinière|47.24977335|-1.58703981</item>
+        <item>HFLE|Hameau Fleuri|47.25105334|-1.58982759</item>
+        <item>CONI|Corniche|47.25271988|-1.59455144</item>
+        <item>ADPI|Avenue des Pins|47.25346905|-1.59719865</item>
+        <item>PCTI|Petit Chantilly|47.25448953|-1.60072181</item>
+        <item>BRAG|Bois Raguenet|47.26669504|-1.6003937</item>
+        <item>PDPI|Pomme de Pin|47.26707975|-1.59533306</item>
+        <item>FNSO|Fenaison|47.26966657|-1.59247594</item>
+        <item>MGEL|Margelle|47.27272502|-1.59420144</item>
+        <item>PDEA|Porteurs d\'Eau|47.27146905|-1.59764887</item>
+        <item>CCHA|Couchant|47.26863571|-1.59962363</item>
+        <item>MALL|Mail|47.26903064|-1.61147124</item>
+        <item>PTCH|Patache|47.27108247|-1.61939589</item>
+        <item>MOVA|Mairie d\'Orvault|47.27108684|-1.62325475</item>
+        <item>ORVA|Orvault|47.27233497|-1.62721293</item>
+        <item>LNDR|Landreau|47.27310813|-1.63054295</item>
+        <item>MAAR|Maillardière|47.27394642|-1.63415053</item>
+        <item>ANGE|Les Anges|47.27475906|-1.63662944</item>
+        <item>ESUE|Eugène Sue|47.23323402|-1.59596616</item>
+        <item>CZIN|Chézine|47.23372214|-1.59914795</item>
+        <item>DUKA|Dukas|47.23504884|-1.60233933</item>
+        <item>GOLF|Golf|47.23632191|-1.60460718</item>
+        <item>CTSH|Coteau|47.2370898|-1.60925334</item>
+        <item>LYPE|Lycée Appert|47.25158313|-1.6112437</item>
+        <item>FORU|Forum d\'Orvault|47.25421339|-1.61515457</item>
+        <item>BIOT|Bigeottière|47.25589297|-1.61921972</item>
+        <item>ANTO|Antons|47.25774728|-1.62300571</item>
+        <item>BCES|Bois Cesbron|47.2610143|-1.62436372</item>
+        <item>PMAR|Pont Marchand|47.26063782|-1.63137314</item>
+        <item>SVIN|Stévin|47.26001674|-1.63463265</item>
+        <item>BUGA|Bugallière|47.25991438|-1.63776132</item>
+        <item>RABI|Rabine|47.26070863|-1.64339511</item>
+        <item>CHNI|Charbonnière|47.26368559|-1.64212494</item>
+        <item>MDRE|Madoire|47.26506311|-1.63839226</item>
+        <item>CVBL|Cheveux Blancs|47.26545689|-1.63515793</item>
+        <item>LANA|Launay|47.26546173|-1.63226979</item>
+        <item>GROR|Garenne|47.25815437|-1.64533497</item>
+        <item>AMCA|Armoricaine|47.25838662|-1.64799896</item>
+        <item>MBRU|Moulin Brûlé|47.25953541|-1.65486454</item>
+        <item>PLSS|Plessis|47.26038919|-1.66012135</item>
+        <item>VDCE|Val du Cens|47.26126546|-1.66612493</item>
+        <item>PCEN|Place Centrale|47.2623556|-1.67247093</item>
+        <item>LBAU|Les Bauches|47.2632556|-1.67702394</item>
+        <item>SATR|Sautron|47.26427382|-1.67952249</item>
+        <item>SLGE|Salorges|47.20501839|-1.57468447</item>
+        <item>GASS|Gassendi|47.19989636|-1.57977059</item>
+        <item>BGVI|Bougainville|47.19891005|-1.58349307</item>
+        <item>RMAU|Roche Maurice|47.19630965|-1.61821508</item>
+        <item>UGAZ|Usine à gaz|47.19478685|-1.61970147</item>
+        <item>ESSO|Esso|47.19472673|-1.6272278</item>
+        <item>UBRU|Usine Brûlée|47.19493084|-1.6319862</item>
+        <item>PFNA|Purfina|47.19456318|-1.63483964</item>
+        <item>SCRE|SCREG|47.19411716|-1.63968786</item>
+        <item>EBCA|Embarcadère|47.19374568|-1.64664658</item>
+        <item>HIND|Haute Indre|47.19497096|-1.64994493</item>
+        <item>VDUR|Verdure|47.19564495|-1.65331994</item>
+        <item>SVNN|Savonnières|47.19749431|-1.66258885</item>
+        <item>PALL|Pont Allard|47.19666759|-1.66637067</item>
+        <item>QBNA|Quai Brunais|47.19632451|-1.66921795</item>
+        <item>BIND|Basse Indre|47.19767244|-1.67226124</item>
+        <item>JBAR|Jean Bart|47.19950314|-1.67604</item>
+        <item>PSIN|Pasteur|47.2010236|-1.67880584</item>
+        <item>DAYA|Dayat|47.20111335|-1.67496269</item>
+        <item>VAIL|Vaillant|47.19963537|-1.67115476</item>
+        <item>MIND|Mairie d\'Indre|47.200544|-1.66862256</item>
+        <item>CAEE|Chaussée|47.20388875|-1.66421926</item>
+        <item>GIND|Gare d\'Indre|47.20489696|-1.66208343</item>
+        <item>BGNN|Bourgonnière|47.20700413|-1.65978838</item>
+        <item>BRGA|Beauregard|47.21038367|-1.65683932</item>
+        <item>CLAM|Clos Ami|47.21232069|-1.65611146</item>
+        <item>ARCA|Arcades|47.21190681|-1.65319889</item>
+        <item>CSIB|Clos Siban|47.21018658|-1.64619052</item>
+        <item>VQRI|Vecquerie|47.21422802|-1.64290831</item>
+        <item>SRTR|Sartre|47.2144258|-1.64064932</item>
+        <item>JUIV|Juiverie|47.21075903|-1.62465827</item>
+        <item>CVDO|Cim. Vx Doulon|47.23847501|-1.50049068</item>
+        <item>PPTR|Papotière|47.24000127|-1.49707524</item>
+        <item>CPRE|Chaupières|47.24276939|-1.49502808</item>
+        <item>BANS|Bois des Anses|47.24705531|-1.49425332</item>
+        <item>LGRI|La Grille|47.25094487|-1.48201996</item>
+        <item>LBGR|Linot Bougrière|47.25329355|-1.47550387</item>
+        <item>PSPO|Parc des Sports|47.26018266|-1.4496548</item>
+        <item>PMTR|Pont Métairie|47.26244559|-1.44662281</item>
+        <item>MLTH|Malnoue|47.26415283|-1.45101558</item>
+        <item>BLEM|Belem|47.26553077|-1.45298927</item>
+        <item>CATI|Cartier|47.26784246|-1.45554201</item>
+        <item>LHLE|Le Halleray|47.26978554|-1.45655446</item>
+        <item>PETR|Pétrels|47.2544182|-1.50723037</item>
+        <item>GCSO|Glacisol|47.25158406|-1.50448235</item>
+        <item>TRCA|Tréca|47.25020029|-1.50131628</item>
+        <item>HTSI|Hortensias|47.25394788|-1.48392627</item>
+        <item>LOIR|Loire|47.24836315|-1.48654877</item>
+        <item>CSAY|Chassay|47.24527168|-1.48439152</item>
+        <item>MGNO|Mignonnerie|47.24316204|-1.48244614</item>
+        <item>PRHE|Petit Rocher|47.24061245|-1.47935669</item>
+        <item>FRGA|Frégate|47.23527212|-1.4759304</item>
+        <item>BLSL|Bellevue|47.23532649|-1.47365926</item>
+        <item>FDAY|Faraday|47.2266319|-1.61638861</item>
+        <item>FRKL|Franklin|47.226649|-1.62048408</item>
+        <item>AMOR|Ar Mor|47.228577|-1.62433763</item>
+        <item>ZENI|Zénith|47.23083712|-1.62888849</item>
+        <item>MLHE|Moulin Hérel|47.22064873|-1.63708826</item>
+        <item>DOLT|Dolto|47.21637251|-1.63628084</item>
+        <item>PVIL|Petit Village|47.21697541|-1.65083707</item>
+        <item>GGSH|Gagnerie|47.21793501|-1.65448333</item>
+        <item>GATI|Gâtine|47.21336423|-1.66057874</item>
+        <item>RCUU|Rochu|47.21513546|-1.66649663</item>
+        <item>BLGO|Berligout|47.21568783|-1.67868432</item>
+        <item>CHAB|Chabossière|47.21553088|-1.68211895</item>
+        <item>FRII|François II|47.21946338|-1.68187298</item>
+        <item>MPER|Millepertuis|47.22169304|-1.67967981</item>
+        <item>SINI|Sinière|47.22495418|-1.6783605</item>
+        <item>MCCO|Marché Commun|47.26005594|-1.49985095</item>
+        <item>CCQU|Carrières|47.27061879|-1.48547323</item>
+        <item>PACQ|Parc|47.27243244|-1.48403756</item>
+        <item>MDNE|Madeleine|47.27568864|-1.4835604</item>
+        <item>BGIE|Bergerie|47.27795367|-1.48429467</item>
+        <item>PCDI|Picaudière|47.27987695|-1.4852183</item>
+        <item>MGUA|Mainguais|47.28223571|-1.48548825</item>
+        <item>STCQ|Stade|47.28042006|-1.4910994</item>
+        <item>CDMA|Champ Manoeuvre|47.27245149|-1.50022138</item>
+        <item>ICAM|ICAM|47.27364502|-1.50186654</item>
+        <item>MPMN|Melpomène|47.27726397|-1.50023408</item>
+        <item>HOSE|Housseau|47.28091702|-1.49844173</item>
+        <item>TPCH|Terpsichore|47.28229624|-1.5018706</item>
+        <item>FAUV|Fauvelière|47.2829432|-1.50524369</item>
+        <item>BRCH|Bréchetière|47.28465996|-1.50354726</item>
+        <item>VEGE|Verger|47.29307965|-1.49711874</item>
+        <item>CARQ|Carquefou|47.30367163|-1.48545652</item>
+        <item>ARGO|Argonautes|47.3023956|-1.48186068</item>
+        <item>BSYS|Bois St-Lys|47.30042648|-1.48189997</item>
+        <item>MBSE|Moulin Boisseau|47.2879481|-1.48421525</item>
+        <item>EPYY|Epinay|47.2922502|-1.48688311</item>
+        <item>PLIS|Plessis|47.29443477|-1.48754448</item>
+        <item>LADO|Ladoumègue|47.29595332|-1.48660275</item>
+        <item>MQDI|Marquis de Dion|47.29709513|-1.48800764</item>
+        <item>MGCH|Monge|47.2528382|-1.56950657</item>
+        <item>AMPE|Ampère|47.26071004|-1.55342193</item>
+        <item>GEVR|Gesvres|47.263761|-1.54866527</item>
+        <item>MLON|Mulonnière|47.26582033|-1.54994887</item>
+        <item>GONI|Gournière|47.26855388|-1.54955883</item>
+        <item>GESV|Gesvrine|47.26969042|-1.55218491</item>
+        <item>LHPI|L\'Hopitau|47.27199037|-1.5516818</item>
+        <item>CRTI|Crétinières|47.27684088|-1.55332306</item>
+        <item>CAPE|Capellia|47.2796636|-1.55490957</item>
+        <item>VRIE|Vrière|47.2824988|-1.55615238</item>
+        <item>LCOG|La Cogne|47.28720337|-1.55705903</item>
+        <item>BNCH|Blanchetière|47.28971399|-1.55598911</item>
+        <item>MGDR|Mongendrière|47.29243905|-1.55443565</item>
+        <item>POST|Poste|47.29524163|-1.55418836</item>
+        <item>LLGR|Léo Lagrange|47.29709065|-1.55511009</item>
+        <item>GLIE|Gilière|47.29929031|-1.55299051</item>
+        <item>CSER|Chapelle / Erdre|47.29934591|-1.55006996</item>
+        <item>JJCE|Jean Jaurès|47.30122561|-1.54977379</item>
+        <item>PLES|Plessis|47.30094955|-1.55235468</item>
+        <item>PLOR|Ploreau|47.3030398|-1.55185081</item>
+        <item>LSOU|La Source|47.30563996|-1.5516634</item>
+        <item>BLAV|Balavoine|47.30641648|-1.55453171</item>
+        <item>PTUR|Pâtures|47.30448207|-1.55638352</item>
+        <item>COTA|Coutancière|47.30613723|-1.56000712</item>
+        <item>PRRI|Perrières|47.3093961|-1.55211697</item>
+        <item>VDNI|Ville au Denis|47.16251782|-1.62725791</item>
+        <item>LFOR|La Forêt|47.14979542|-1.63901333</item>
+        <item>MPTA|Maison Poitard|47.14680288|-1.64898363</item>
+        <item>FGRI|Fief Guérin|47.14386095|-1.66064782</item>
+        <item>BLNO|Bois de La Noé|47.14182978|-1.67157566</item>
+        <item>PVLO|Pavillon|47.14363184|-1.67938815</item>
+        <item>ECHO|Echoppes|47.14396093|-1.68569839</item>
+        <item>BYCE|Centre de Bouaye|47.14394635|-1.69158749</item>
+        <item>BYEE|Cimetière Bouaye|47.14504556|-1.69686469</item>
+        <item>CUIE|Chausserie|47.14925434|-1.70413335</item>
+        <item>BRIN|Brains|47.16948718|-1.72308786</item>
+        <item>BLLE|Bellestre|47.14809386|-1.69375048</item>
+        <item>LTOU|Le Tour|47.15173892|-1.68919136</item>
+        <item>LYBO|Lycée de Bouaye|47.15579097|-1.68152267</item>
+        <item>ENCO|Ennerie Corbon|47.14192054|-1.70484361</item>
+        <item>LLMO|Le Clémois|47.13733818|-1.7225303</item>
+        <item>SLVI|St-Léger|47.13635494|-1.7301076</item>
+        <item>ZDCO|Zac des Coteaux|47.16266255|-1.68031741</item>
+        <item>SALE|Salentine|47.24855001|-1.6103372</item>
+        <item>LLIO|Les Lions|47.24966759|-1.61453749</item>
+        <item>JVOR|Jules Verne|47.25088586|-1.61908007</item>
+        <item>XSYY|Croisy|47.25365255|-1.62674713</item>
+        <item>LYRI|Lycée Rieffel|47.25545066|-1.64262794</item>
+        <item>MLNE|Moulinets|47.20990072|-1.62917344</item>
+        <item>JTIC|Justice|47.20943026|-1.6314973</item>
+        <item>CSHB|Carrières|47.2081249|-1.63789364</item>
+        <item>RCER|Rocher|47.20974963|-1.64298697</item>
+        <item>LSAL|La Salle|47.21438716|-1.68876643</item>
+        <item>SMAR|St-Martin|47.21340092|-1.69310685</item>
+        <item>META|Métairie|47.21386882|-1.69880931</item>
+        <item>FANE|Faneurs|47.21369272|-1.70235738</item>
+        <item>BECO|Beaulieu|47.21292826|-1.70776787</item>
+        <item>BSIS|Bossis|47.21250366|-1.71250994</item>
+        <item>JARI|Jarriais|47.21290773|-1.71861686</item>
+        <item>ADBO|Audubon|47.21400607|-1.72321269</item>
+        <item>MCOU|Mairie Couëron|47.21221863|-1.72724645</item>
+        <item>POCO|Poste|47.21337881|-1.72935323</item>
+        <item>LGGE|La Grange|47.2137403|-1.73174441</item>
+        <item>BLCH|Blancho|47.21322339|-1.73477538</item>
+        <item>OCEA|Océan|47.21357146|-1.73863827</item>
+        <item>MOET|Mouettes|47.21031127|-1.74271918</item>
+        <item>PLNA|Port launay|47.20968721|-1.74621097</item>
+        <item>CBAC|Bac de Couëron|47.20595639|-1.75200925</item>
+        <item>PDRE|Pont de Retz|47.21404625|-1.70668575</item>
+        <item>COPI|Chopin|47.21657901|-1.70987224</item>
+        <item>CTCO|Coteau|47.21919227|-1.71411092</item>
+        <item>LCMB|La Combe|47.21962459|-1.71782641</item>
+        <item>NOCO|Noëlle|47.21683381|-1.71776891</item>
+        <item>TADI|Taillandier|47.21446832|-1.71658097</item>
+        <item>THAT|Théatre|47.21600441|-1.72869346</item>
+        <item>JNAI|Jaunaie|47.21934993|-1.72723557</item>
+        <item>CUGA|Gare de Couëron|47.22176051|-1.72413971</item>
+        <item>COQU|Coquelicots|47.22251393|-1.72918753</item>
+        <item>BIEE|Belle-Ile|47.22417812|-1.73251782</item>
+        <item>CBOU|Couëron - Bougon|47.22507921|-1.73401375</item>
+        <item>VEPR|Vesprées|47.24570338|-1.50276577</item>
+        <item>CTYY|Coty|47.24904247|-1.48798083</item>
+        <item>PJOU|Point du jour|47.26481722|-1.44422867</item>
+        <item>MVRD|Monteverdi|47.26656418|-1.44630837</item>
+        <item>SUCO|Surcouf|47.26859467|-1.4454399</item>
+        <item>OSAN|Ouessant|47.27016433|-1.4466644</item>
+        <item>HBDE|Halbarderie|47.26840621|-1.43783005</item>
+        <item>CMCI|Clémencière|47.26954753|-1.43553632</item>
+        <item>RDMV|Rue de Mauves|47.27253045|-1.4313552</item>
+        <item>CNON|Chinon|47.27412605|-1.42908655</item>
+        <item>CAGE|Chalonges|47.2759742|-1.42915061</item>
+        <item>MTYY|Monty|47.27420759|-1.43307057</item>
+        <item>CNCE|Chenonceau|47.27259683|-1.43469828</item>
+        <item>THOU|Thouaré / Loire|47.27593727|-1.43797025</item>
+        <item>BSAN|Bobby Sands|47.23011001|-1.65193465</item>
+        <item>RVDI|Rivaudière|47.22711151|-1.65056797</item>
+        <item>APAV|Apave|47.225581|-1.64761709</item>
+        <item>SMIC|St-Michel|47.22413192|-1.64452305</item>
+        <item>BOUE|Bio Ouest|47.23305013|-1.64223337</item>
+        <item>INLA|Internat Laënnec|47.23502494|-1.64083702</item>
+        <item>CP4L|Chapelle Laennec|47.23533497|-1.63776293</item>
+        <item>CLCC|Cent. Gauducheau|47.23848273|-1.63829179</item>
+        <item>HPLA|Hôpital Laënnec|47.23689422|-1.64084115</item>
+        <item>HCOU|Hauts de Couëron|47.24055414|-1.66970756</item>
+        <item>IMPR|Imprimeurs|47.23877132|-1.66996216</item>
+        <item>DLLE|Drillet|47.23499349|-1.66612966</item>
+        <item>RSNB|Rosenberg|47.23478462|-1.66046785</item>
+        <item>LLOR|La Lorie|47.23483403|-1.65590979</item>
+        <item>SOWE|Soweto|47.233668|-1.6527369</item>
+        <item>FTAB|Félix Tableau|47.1878501|-1.54663213</item>
+        <item>SPSA|St-Paul Salengro|47.18484624|-1.54618832</item>
+        <item>PNRZ|Pinier|47.18214234|-1.54542944</item>
+        <item>TMOU|Trois Moulins|47.17810558|-1.54411433</item>
+        <item>LCHA|Lechat|47.17544021|-1.54373953</item>
+        <item>BCTT|Blanchet|47.17153962|-1.54327855</item>
+        <item>MNRZ|Malnoue|47.16148924|-1.54218928</item>
+        <item>RETA|Retas|47.15535408|-1.53731446</item>
+        <item>RDNT|Rue de Nantes|47.15128196|-1.53432132</item>
+        <item>MSOR|Mie Sorinières|47.14937756|-1.53249777</item>
+        <item>ESOR|Ecoles|47.14602088|-1.52829888</item>
+        <item>CHFL|Champ Fleuri|47.14386358|-1.52511167</item>
+        <item>CMOU|Clos du Moulin|47.14502475|-1.52138618</item>
+        <item>CLVA|Calvaire|47.1464221|-1.51896798</item>
+        <item>ROET|Rouet|47.14852362|-1.52205073</item>
+        <item>PSOR|Prières|47.14995791|-1.52586456</item>
+        <item>CRBE|Corberie|47.15204848|-1.52412928</item>
+        <item>HLAN|Haute Lande|47.15431323|-1.52355114</item>
+        <item>LFAU|Les Faulx|47.15727055|-1.52266503</item>
+        <item>SRNI|Les Sorinières|47.15909404|-1.51791734</item>
+        <item>LBRZ|Libération|47.1937795|-1.54569474</item>
+        <item>CPIO|CPIO|47.26273009|-1.50771694</item>
+        <item>BELE|Bêle|47.26662671|-1.50306402</item>
+        <item>NBEL|Nouveau Bêle|47.26880112|-1.501864</item>
+        <item>IUTH|IUT|47.29786816|-1.5047589</item>
+        <item>RNRE|Renaudières|47.29937889|-1.50800653</item>
+        <item>FNEL|Fresnel|47.30221492|-1.50787172</item>
+        <item>ARAG|Arago|47.30351263|-1.50483053</item>
+        <item>SOEC|Souchais - Ecole|47.30359201|-1.49854256</item>
+        <item>SOCH|Souchais|47.30591777|-1.49387871</item>
+        <item>PMGA|Primagaz|47.27119303|-1.49804963</item>
+        <item>CDRA|Cadranière|47.27480042|-1.49601785</item>
+        <item>ACHA|Angle Chaillou|47.26974784|-1.57200147</item>
+        <item>VEIE|Verrière|47.27681691|-1.57059826</item>
+        <item>LCTE|La Côte|47.28216723|-1.56045219</item>
+        <item>AULN|L\'Aulnay|47.3029254|-1.54712958</item>
+        <item>FATA|Fantaisie|47.25364259|-1.57443336</item>
+        <item>CLBO|Clos Bonnet|47.18991631|-1.5644953</item>
+        <item>MHDI|Mahaudières|47.18890098|-1.56072518</item>
+        <item>MCUR|Madame Curie|47.18916073|-1.5549472</item>
+        <item>JFRA|Jean Fraix|47.1861868|-1.54204732</item>
+        <item>CGLA|Chêne Gala|47.18346336|-1.53943376</item>
+        <item>LGTH|Lagathu|47.18072034|-1.53679791</item>
+        <item>BLOR|Blordière|47.17995935|-1.53382216</item>
+        <item>CBLE|Chemin Bleu|47.17832985|-1.52537717</item>
+        <item>CHSS|Chaussée|47.17695805|-1.5216048</item>
+        <item>RSLI|Rousselière|47.17556291|-1.51802842</item>
+        <item>LBPI|L\'Ebaupin|47.17172326|-1.51034385</item>
+        <item>PMEU|Port aux Meules|47.16559667|-1.49341538</item>
+        <item>LAXX|La Croix|47.16523755|-1.48701326</item>
+        <item>LCNE|Le Chêne|47.16522585|-1.48431382</item>
+        <item>PSEV|Parc de la Sèvre|47.16456379|-1.47979517</item>
+        <item>ROCA|Rocade|47.16341924|-1.47452922</item>
+        <item>MELI|Méliès|47.18154134|-1.55621703</item>
+        <item>JGUE|Jaguère|47.17557932|-1.56683285</item>
+        <item>JVAL|Jules Vallès|47.17300649|-1.57137455</item>
+        <item>LAIL|Les Ailes|47.17066713|-1.57492381</item>
+        <item>GALH|Galheur|47.16634277|-1.58053121</item>
+        <item>AESP|Aérospatiale|47.16102942|-1.58750469</item>
+        <item>AIBU|Airbus|47.15861471|-1.59120014</item>
+        <item>AEPO|Aéroport|47.1573468|-1.59723218</item>
+        <item>LBER|Lindbergh|47.1546588|-1.59757018</item>
+        <item>STXU|St-Exupéry|47.15289215|-1.59487891</item>
+        <item>GCOU|Gauchoux|47.14609061|-1.60010481</item>
+        <item>LNOU|La Noue|47.1405786|-1.60753903</item>
+        <item>EPIN|Epinais|47.13621309|-1.61051297</item>
+        <item>PGTI|Plinguetière|47.13335147|-1.6133353</item>
+        <item>MTRA|Mortrais|47.12813708|-1.6165249</item>
+        <item>CFOI|Champ de Foire|47.12441719|-1.61873614</item>
+        <item>GARO|Garotterie|47.12618156|-1.62706322</item>
+        <item>RNIE|Rinière|47.12891009|-1.6359883</item>
+        <item>GDNN|Gendronnerie|47.12713225|-1.63958023</item>
+        <item>JHDI|Jahardières|47.12532474|-1.64285497</item>
+        <item>PRSS|Pressoir|47.12356112|-1.63877685</item>
+        <item>SAGL|St-Aignan G-Lieu|47.1232199|-1.63440388</item>
+        <item>BLBO|Bellevue|47.17643295|-1.61988808</item>
+        <item>BJLI|Bois Jaulin|47.17751688|-1.63690738</item>
+        <item>BSOL|Beau Soleil|47.17769908|-1.64504912</item>
+        <item>PGRI|Pagerie|47.17859505|-1.65190196</item>
+        <item>RBAL|Roche Ballue|47.17944202|-1.655598</item>
+        <item>LMAR|La Marche|47.18111554|-1.65980637</item>
+        <item>RAVA|Ravardière|47.18376072|-1.6648341</item>
+        <item>CTBO|Coteaux|47.18448748|-1.66965732</item>
+        <item>CAUX|Château D\'Aux|47.18513998|-1.6738526</item>
+        <item>PTBO|Petit Bois|47.18557135|-1.67784952</item>
+        <item>GIAR|Gilarderie|47.18592356|-1.68256241</item>
+        <item>CLMO|Cim. Montagne|47.18723422|-1.68623689</item>
+        <item>LMTA|La Montagne|47.18862689|-1.68952067</item>
+        <item>BRDI|Briandière|47.18990338|-1.69247942</item>
+        <item>CQGU|Chat-qui-guette|47.1919846|-1.69684083</item>
+        <item>VFOU|Vieux Four|47.19083566|-1.70103225</item>
+        <item>STBS|Stade|47.19125117|-1.70748232</item>
+        <item>XTRU|Croix Truin|47.19137686|-1.71207117</item>
+        <item>CLOT|Clotais|47.19331104|-1.7190673</item>
+        <item>SJBO|St-Jean Boiseau|47.19583078|-1.72473468</item>
+        <item>TLDI|Télindière|47.19614753|-1.73698899</item>
+        <item>MROT|Moulin Rotard|47.19586285|-1.74066898</item>
+        <item>TEBS|Tertre|47.19675294|-1.74455746</item>
+        <item>CLRO|Clos Roux|47.19838187|-1.7502272</item>
+        <item>TEIF|Tour Eiffel|47.19965379|-1.75452852</item>
+        <item>EPEL|Ecoles|47.19756618|-1.75916833</item>
+        <item>LPEL|Le Pellerin|47.20116818|-1.75917573</item>
+        <item>LPBA|Bac du Pellerin|47.20290594|-1.75488753</item>
+        <item>RCA9|René Cassin|47.26406672|-1.57398679</item>
+        <item>MBHA|Morbihan|47.27899761|-1.50890642</item>
+        <item>INRE|Indre|47.20115757|-1.66769775</item>
+        <item>BNET|Bignonnet|47.17541776|-1.46514758</item>
+        <item>CLZE|Clouzeaux|47.17934484|-1.49253967</item>
+        <item>AECL|Aéroclub|47.15934207|-1.5981486</item>
+        <item>NATL|Ntes Atlantique|47.15783258|-1.60114878</item>
+        <item>RQIO|Trentem. Roquios|47.19521816|-1.58226135</item>
+        <item>JCDM|Jacques Demy|47.1584597|-1.68302498</item>
+        <item>PIEA|Pierre Abélard|47.15559943|-1.68397699</item>
+        <item>BYGA|Gare de Bouaye|47.13821398|-1.68089219</item>
+    </array>
+</resources>
